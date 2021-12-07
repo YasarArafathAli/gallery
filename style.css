@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+
+#view-image{
+    width: 600px;
+    height: 600px;
+    background-color: purple;
+    margin: auto;
+    background-image: url("../Circle-icons-art.svg.png");
+    
+}
+
+img{
+    width: 250px;
+    margin: 25px;
+}
